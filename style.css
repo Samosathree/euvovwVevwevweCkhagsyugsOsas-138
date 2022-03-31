@@ -1,0 +1,8 @@
+.heading{
+    width: 100%;
+    font-size: 20px;
+}
+#instructions{
+    border: 1px solid white;
+    margin-top: 7px;
+}
