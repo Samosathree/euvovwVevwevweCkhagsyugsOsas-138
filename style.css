@@ -6,3 +6,11 @@
     border: 1px solid white;
     margin-top: 7px;
 }
+.model-dialog{
+    width: 90%;
+}
+#foot_ER{
+    width: 100%;
+    position: sticky;
+    margin-bottom: 0;
+}
